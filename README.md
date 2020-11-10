@@ -2,8 +2,8 @@
 
 ## Prerequisite
 
-    - [VirtualBox] (https://www.virtualbox.org/) 
-    - [Vagrant](https://www.vagrantup.com/)
+- [VirtualBox](https://www.virtualbox.org/) 
+- [Vagrant](https://www.vagrantup.com/)
 
 
 
