@@ -2,10 +2,8 @@
 
 ## Prerequisite
 
-- [VirtualBox](https://www.virtualbox.org/) 
+- [VirtualBox](https://www.virtualbox.org/)
 - [Vagrant](https://www.vagrantup.com/)
-
-
 
 Install vagrant plugin for .env support
 
