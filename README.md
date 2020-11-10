@@ -1,5 +1,18 @@
 # Setup PHP and Postgres with Ansible
 
+## Prerequisite
+
+    - [VirtualBox] (https://www.virtualbox.org/) 
+    - [Vagrant](https://www.vagrantup.com/)
+
+
+
+Install vagrant plugin for .env support
+
+```bash
+vagrant plugin install vagrant-env
+```
+
 Add a .env file
 
 ```env
@@ -20,4 +33,10 @@ disable_default: true
 db_name: "vagrant"
 db_user: "vagrant"
 db_password: "vagrant"
+```
+
+Create the vm with virtual box
+
+```bash
+vagrant up
 ```
